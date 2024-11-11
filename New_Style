@@ -144,8 +144,8 @@ img
     position: relative;
     justify-content: center;
 
-    top: 275px;
-    left: 320px;
+    top: 33%;
+    left: 27.5%;
 
     z-index: 2;
 }
