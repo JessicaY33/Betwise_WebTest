@@ -9,7 +9,7 @@ body
     font-family: "Press Start 2P", serif;
 
     background-image: url("images/Background2_Expanded.png");
-    background-position: fixed;
+    background-position: center;
 }
 
 .grid-container
