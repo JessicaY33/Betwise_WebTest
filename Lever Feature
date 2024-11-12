@@ -1,0 +1,23 @@
+#Lever
+{
+    z-index: 3;
+}
+
+#LeverPositioner
+{
+    position: relative;
+    margin-left: 80%;
+    bottom: 700px;
+}
+
+<div id="SlotSection">
+            <div id="SlotMachinePositioner">
+                <img id="SlotMachine" src="images/SlotMachine_Expanded.png" alt="The Slot Machine!">
+                <div id="SlotResults">
+                    <span id="SlotResult1"><img src="images/Cherry_slot_Expanded.png" width="250px"></span>
+                    <span id="SlotResult2"><img src="images/Lemon_slot_Expanded.png" width="250px"></span>
+                    <span id="SlotResult3"><img src="images/Diamond_slot_Expanded.png" width="250px"></span>
+                </div>
+                 <div id="LeverPositioner"><img id="Lever" src="images/Lever_Expanded.png" alt="The Slot Lever!"></div>
+            </div>
+        </div>
