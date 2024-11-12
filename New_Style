@@ -112,8 +112,8 @@ p
 
 img
 {
-    width: 75px;
-    height: 75px;
+    width: 100px;
+    height: 100px;
 
     float: center;
 }
@@ -140,7 +140,7 @@ img
 
     padding-left: 50px;
     margin-bottom: auto;
-    width: 700px;
+    width: 770px;
 }
 
 #SlotResults
@@ -151,17 +151,17 @@ img
     width: 400px;
 
     margin-right: auto;
-    margin-left: 29%;
+    margin-left: 28%;
 
-    top: -425px;
+    top: -465px;
 
     z-index: 2;
 }
 
 #SlotResult2
 {
-    margin-left: 18px;
-    margin-right: 18px;
+    padding-left: 3px;
+    padding-right: 5px;
 }
 
 #BalanceSection
